@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to DSY Art!
+    title: Welcome to DSY ART!
     text: My art my life.
     button: My Portfolio
     buttonlink: "#portfolio"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
     section: about
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
