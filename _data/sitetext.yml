@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     button: My Portfolio
     buttonlink: "#portfolio"
 
-#  services:
-#    title: "Services"
+  portfolio:
+    title: "Portfolio"
 #    text: "Traditional painting with modern attitudes"
 #    section: services
 #    list:
@@ -32,14 +32,26 @@ en: &DEFAULT_EN
 #        icon: fas fa-paint-brush
 
   portfolio:
-    title: "Portfolio"
+    title: "Pastel"
     text: "Here are a few of my recent creations"
-    section: portfolio
+    section: pastel
     closebutton: "Close Project"
-
+    
+  portfolio:
+    title: "Watercolour"
+    text: "Here are a few of my recent creations"
+    section: watercolour
+    closebutton: "Close Project"
+    
+  portfolio:
+    title: "Pencil"
+    text: "Here are a few of my recent creations"
+    section: pencil
+    closebutton: "Close Project"
+    
   about:
-    title: "About Us"
-    text: "our story"
+    title: "About Me"
+    text: "My story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
