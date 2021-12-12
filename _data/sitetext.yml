@@ -13,23 +13,23 @@ en: &DEFAULT_EN
   header:
     title: Welcome to DSY Art!
     text: My art my life.
-    button: Tell Me More
-    buttonlink: "#services"
+    button: My Portfolio
+    buttonlink: "#portfolio"
 
-  services:
-    title: "Services"
-    text: "Traditional painting with modern attitudes"
-    section: services
-    list:
-      - title: "Commissions"
-        desc: "I can create your own unique piece, working with you to express your subject in my trademark style."
-        icon: fas fa-palette #find more at https://fontawesome.com/icons
-      - title: "Photography"
-        desc: "Using traditional methods or today's technology, I can capture those creative moments."
-        icon: fas fa-camera-retro
-      - title: "Stock paintings"
-        desc: "Choose from my current stock of one-off creations to enliven your space."
-        icon: fas fa-paint-brush
+#  services:
+#    title: "Services"
+#    text: "Traditional painting with modern attitudes"
+#    section: services
+#    list:
+#      - title: "Commissions"
+#        desc: "I can create your own unique piece, working with you to express your subject in my trademark style."
+#        icon: fas fa-palette #find more at https://fontawesome.com/icons
+#      - title: "Photography"
+#        desc: "Using traditional methods or today's technology, I can capture those creative moments."
+#        icon: fas fa-camera-retro
+#      - title: "Stock paintings"
+#        desc: "Choose from my current stock of one-off creations to enliven your space."
+#        icon: fas fa-paint-brush
 
   portfolio:
     title: "Portfolio"
