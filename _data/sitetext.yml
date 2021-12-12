@@ -35,25 +35,25 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Here are a few of my recent creations"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   pastel:
     title: "Pastel"
     text: "Here are a few of my pastel creations"
     section: pastel
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   pencil:
     title: "Pencil"
     text: "Here are a few of my pencil creations"
     section: pencil
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   watercolour:
     title: "Watercolour"
     text: "Here are a few of my watercolour creations"
     section: watercolour
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   about:
     title: "About Me"
