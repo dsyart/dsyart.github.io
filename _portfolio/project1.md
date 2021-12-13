@@ -1,6 +1,6 @@
 ---
 title: Mon père et fille
-subtitle: This is a pencil crayo
+subtitle: pencil crayon
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
