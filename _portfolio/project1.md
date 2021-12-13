@@ -1,18 +1,19 @@
 ---
-title: Current
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Mon père et fille
+subtitle: This is a pencil crayo
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
-caption:
-  title: Current
-  subtitle: 800 x 1000mm
+caption: 
+  title: Mon père et fille
+  subtitle: 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
+ 
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Oil on canvas
+This drawing was based loosely on a photograph of me in my father's arms. I was inspired by the abstract art of Picasso and observed the method of bold colour and slight distortion of features.
 
 {:.list-inline}
-- Oil on linen
-- 800 x 1000mm
+- pencil crayon on paper
+
 
 
