@@ -1,18 +1,17 @@
 ---
-title: Portrait 2
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Our Cat
+subtitle: 
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Portrait 2
-  subtitle: 300 x 300mm
+  title: Bobo Fete
+  subtitle: 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A pencil drawing with Watercolour of Bobo
 
 {:.list-inline}
-- Oil on linen
-- 300 x 300mm
+- Pencil and Watercolour
 
 
