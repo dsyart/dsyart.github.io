@@ -1,5 +1,5 @@
 ---
-title: Mon père et fille
+title: Mon père et moi
 subtitle: pencil crayon
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
