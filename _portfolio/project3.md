@@ -5,7 +5,7 @@ image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Bobo Fete
+  title: Bobo Fête
   subtitle: 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
